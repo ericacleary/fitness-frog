@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace FitnessFrog
+namespace Treehouse.FitnessFrog
 {
     public class MvcApplication : System.Web.HttpApplication
     {
